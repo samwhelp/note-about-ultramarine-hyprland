@@ -23,7 +23,7 @@ grand_parent: 設定
 
 | 路徑 | 簡易說明 |
 | --- | --- |
-| [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/ultramarine-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | hyprland config layout-master|
+| [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/ultramarine-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | Hyprland Config for Layout-Master |
 
 
 
