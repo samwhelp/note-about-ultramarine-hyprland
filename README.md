@@ -22,7 +22,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Hyprland](https://github.com/samwhelp/ultramarine-hyprland-adjustment/tree/main/prototype/main/hyprland-config/Main) |
+| [Ultramarine Hyprland Config](https://github.com/samwhelp/ultramarine-hyprland-adjustment/tree/main/prototype/main/hyprland-config/Main) |
 
 
 
