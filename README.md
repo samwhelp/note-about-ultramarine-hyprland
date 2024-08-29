@@ -34,7 +34,7 @@
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
-| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+| [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
 
 
 
