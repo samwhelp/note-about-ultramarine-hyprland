@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Ultramarine Hyprland Adjustment](https://samwhelp.github.io/ultramarine-hyprland-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-hyprland-adjustment) |
 | [Ultramarine Hyprland 探索筆記](https://samwhelp.github.io/note-about-ultramarine-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-hyprland) |
+| [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 
 
 
@@ -33,7 +34,7 @@
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
-| [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
+| [Garuda Hyprland 探索筆記](https://samwhelp.github.io/note-about-garuda-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-garuda-hyprland) |
 | [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
 
 
